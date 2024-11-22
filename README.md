@@ -5,7 +5,7 @@
 
 ## Overview
 
-__YA2048CC__ - Yet Another 2048 Compose Clone -  is a Kotlin Multiplatform Compose implementation of the classic 2048 game, styled with a nostalgic retro LCD-inspired user interface for a unique gaming experience across platforms.",
+__YA2048CC__ - Yet Another 2048 Compose Clone - Kotlin Multiplatform Compose implementation of the classic 2048 game, styled with a nostalgic retro LCD-inspired user interface for a unique gaming experience across platforms.",
 
 ## Features
 
