@@ -13,9 +13,8 @@ __YA2048CC__ - Yet Another 2048 Compose Clone - Kotlin Multiplatform Compose imp
 - Runs seamlessly on **iOS** and **Android**.
 - **Nostalgic visual experience** inspired by classic LCD screens - see [YACRUK](https://github.com/andrew-malitchuk/yet-another-compose-retro-ui-kit).
 
-|
-|--|--|
-|![img_1.tiff](docs/img/img_1.tiff) | ![img_2.tiff](docs/img/img_2.tiff)|
+| ![img_1.tiff](docs/img/img_1.tiff)  | ![img_2.tiff](docs/img/img_2.tiff)  |
+|---|---|
 
 ## Troubleshooting
 
